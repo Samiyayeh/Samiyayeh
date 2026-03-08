@@ -1,13 +1,14 @@
 # Hi there, I'm John kenneth Calubad 👋
 
 ### 🚀 Backend Developer & Lifelong Student
-I focus on building scalable server-side applications and robust architectures. Currently refining my craft in backend systems while exploring the full stack.
+I build scalable, type-safe server-side applications. Currently mastering architectural patterns and deep-diving into database optimization.
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -17,6 +18,12 @@ I focus on building scalable server-side applications and robust architectures. 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Databases & ORM**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Frontend & Design**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -26,9 +33,9 @@ I focus on building scalable server-side applications and robust architectures. 
 ---
 
 ### 📈 Activity & Growth
-- 🔭 **Currently:** Deep diving into Backend Engineering patterns.
-- 🌱 **Learning:** Mastering system design and microservices.
-- 💬 **Ask me about:** JavaScript, Python, or why the backend is better than the frontend.
+- 🔭 **Currently:** Mastering Backend system design and Prisma ORM.
+- 🌱 **Learning:** Microservices and Database Indexing.
+- 💬 **Ask me about:** Why I prefer TypeScript over vanilla JS for the backend.
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
