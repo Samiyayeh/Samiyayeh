@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm John kenneth Calubad 👋
 
 ### 🚀 Backend Developer & Lifelong Student
 I focus on building scalable server-side applications and robust architectures. Currently refining my craft in backend systems while exploring the full stack.
@@ -38,5 +38,9 @@ I focus on building scalable server-side applications and robust architectures. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-kenneth-calubad-41596a32b/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kenneth.calubad.965)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:johnkenneth.calubad@unc.edu.ph)
+
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
 ---
